@@ -1,5 +1,5 @@
-Name: Manpreet Singh
-Student Number: 90541115588
+Name: Armanpreet
+Student Number: 90541116750
 Challenge Attempted: Intro section with dropdown navigation
 
 
